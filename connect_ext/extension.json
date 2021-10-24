@@ -6,31 +6,13 @@
   "changelog_url": "https://example.com/CHANGELOG.md",
   "capabilities": {
     "asset_purchase_request_processing": [
-      "draft",
-      "tiers_setup",
-      "pending",
-      "inquiring",
-      "approved",
-      "failed",
-      "scheduled",
-      "revoking",
-      "revoked"
+      "pending"
     ],
     "asset_purchase_request_validation": [
-      "draft",
-      "tiers_setup",
-      "pending",
-      "inquiring",
-      "approved",
-      "failed"
+      "draft"
     ],
     "asset_change_request_validation": [
-      "draft",
-      "tiers_setup",
-      "pending",
-      "inquiring",
-      "approved",
-      "failed"
+      "draft"
     ]
   }
 }

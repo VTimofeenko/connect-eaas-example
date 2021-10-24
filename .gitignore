@@ -3,3 +3,4 @@ htmlcov
 .coverage
 coverage.xml
 .demo_project_dev.env
+dist/
