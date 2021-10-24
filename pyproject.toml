@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "demo-project"
+name = "connect-eaas-example"
 version = "0.1.0"
 description = "Project description "
 authors = ["Vladimir Timofeenko"]
@@ -10,7 +10,7 @@ packages = [
 readme = "./README.md"
 
 [tool.poetry.plugins."connect.eaas.ext"]
-"extension" = "connect_ext.extension:DemoProjectExtension"
+"extension" = "connect_ext.extension:SampleEaaSExtension"
 
 [tool.poetry.dependencies]
 python = "^3.8"

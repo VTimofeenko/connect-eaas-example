@@ -1,3 +1,3 @@
-# EaaS: Demo project changelog
+# EaaS: Sample EaaS Extension changelog
 
-* 1.0.0: initial version
+* 0.1.0: initial version. Bs

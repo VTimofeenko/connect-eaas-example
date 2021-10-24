@@ -5,7 +5,7 @@
 #
 import pytest
 
-from connect_ext.extension import DemoProjectExtension
+from connect_ext.extension import SampleEaaSExtension as DemoProjectExtension
 
 
 @pytest.mark.asyncio

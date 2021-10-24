@@ -15,7 +15,7 @@ class Reasons:
     WRONG_QUANTITY = "Quantity of items is not equal"
 
 
-class DemoProjectExtension(Extension):
+class SampleEaaSExtension(Extension):
     async def process_asset_purchase_request(self, request):
         """This is a demo middleware for validation.
 

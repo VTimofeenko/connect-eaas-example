@@ -1,9 +1,9 @@
 {
-  "name": "Demo project",
-  "description": "Project description ",
+  "name": "Connect EaaS extension sample",
+  "description": "A sample extension, implementing trivial check",
   "version": "0.1.0",
-  "readme_url": "https://example.com/README.md",
-  "changelog_url": "https://example.com/CHANGELOG.md",
+  "readme_url": "https://github.com/VTimofeenko/connect-eaas-example/blob/master/README.md",
+  "changelog_url": "https://github.com/VTimofeenko/connect-eaas-example/blob/master/CHANGELOG.md",
   "capabilities": {
     "asset_purchase_request_processing": [
       "pending"

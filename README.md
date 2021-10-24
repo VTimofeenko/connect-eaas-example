@@ -13,5 +13,5 @@ See [extension.py](connect_ext/extension.py) file for details on implementation.
 
 ## License
 
-**Demo project** is licensed under the *Apache Software License 2.0* license.
+**Sample Connect EaaS Extension** is licensed under the *Apache Software License 2.0* license.
 
